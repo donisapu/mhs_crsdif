@@ -183,7 +183,7 @@
                         </li> -->
                         <hr>
                         <li>
-                            <a target="_blank" href="<?= 'http://localhost:8080/mhs_absen'?>" class="btn btn-primary btn-sm"><i class="fa fa-list fa-fw"></i> Absensi</a>
+                            <a target="_blank" href="<?= 'http://localhost/mhs_absensi'?>" class="btn btn-primary btn-sm"><i class="fa fa-list fa-fw"></i> Absensi</a>
                             
                         </li>
                     </ul>
